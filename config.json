@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpave",
+        "uuid": 7410172,
+        "checksum": "thyjpl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
